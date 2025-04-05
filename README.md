@@ -94,19 +94,19 @@ Es muy parecida a la ventana de Hanning, es útil para mantener la amplitud de l
 ![image](https://github.com/user-attachments/assets/605de27f-a096-4832-8dd0-7c0346e781e4)
 ![image](https://github.com/user-attachments/assets/06975a96-76ac-40f1-b3f4-f6bc82463f11)
 ![image](https://github.com/user-attachments/assets/a78d4ebb-04ce-4239-babf-5f0734e1fd60)
-![image](https://github.com/user-attachments/assets/8d540040-d21b-4266-acd4-93f28493664c)
+
 
 ##### Contraccion 2
 ![image](https://github.com/user-attachments/assets/f6c953b6-8b34-49dc-a44f-622ee05b09f5)
 ![image](https://github.com/user-attachments/assets/a44cf049-7857-4c21-a0f3-01bafbd0974d)
 ![image](https://github.com/user-attachments/assets/9587ca2f-3f8f-4d70-b6a2-8490698d766d)
-![image](https://github.com/user-attachments/assets/3b68146e-bc34-4103-b8b0-202bf22dc34a)
+
 
 ##### Contraccion 36
 ![image](https://github.com/user-attachments/assets/07fb4bdf-8133-4866-bbe6-03563804f42d)
 ![image](https://github.com/user-attachments/assets/9a21204d-1663-4e8d-8664-589ebe3c0628)
 ![image](https://github.com/user-attachments/assets/645d5b98-eaf3-453b-a863-23a0b6ea84d7)
-![image](https://github.com/user-attachments/assets/ea5b4195-da2a-442b-ab03-1d6e7ae36f76)
+
 
 ##### Contraccion 37
 ![image](https://github.com/user-attachments/assets/480cf39e-13ce-43ae-92ed-e63cf7006eb7)
@@ -149,8 +149,10 @@ Una transformacion es una operacion que convierte una señal desde un dominio a 
 ![image](https://github.com/user-attachments/assets/ecf733fa-216f-441c-8285-62baba6ab65c)
 ![image](https://github.com/user-attachments/assets/8a446bea-2efc-49e2-a544-22376ce016fd)
 
-![image](https://github.com/user-attachments/assets/9c2faa2f-9f10-4754-b91a-e56a0c52c90f)
-![image](https://github.com/user-attachments/assets/a4ee11d4-d5ab-4174-bce8-526caeb83dd9)
+![image](https://github.com/user-attachments/assets/664a0529-c497-4751-be44-00c36b50ba20)
+![image](https://github.com/user-attachments/assets/75da7548-4a08-4ae2-9ca9-60fbe488d075)
+
+
 
 
 
