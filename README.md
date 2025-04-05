@@ -10,7 +10,7 @@ Es una prueba médica que permite evaluar la salud de los músculos y los nervio
 
 ![image](https://github.com/user-attachments/assets/a1f4a287-2691-41e6-bdbe-c122a7b21ca3)
 
-
+La grafica contiene multiples contracciones(37), las cuales no son observables, por lo tanto es necesario segmentar la señal para poder analizar 
 
 ### Sistema de adquisicion de datos (DAQ)
 Es un conjunto de componentes que permite medir un fenomeno electrico o fisico, incluye sensores, convertidores analogo-digitales. Mide señales fisicas del mundo real y las convierte en datos digitales para su analisis. Este sistema es fundamental para capturar la actividad electrica del musculo en tiempo real, utilizando su capacidad para digitalizar las señales analogicas que vienen de los electrodos. garantizando que los datos sean confiables.
