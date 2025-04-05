@@ -8,6 +8,10 @@ En este proyecto se estudia la fatiga muscular por medio del análisis espectral
 ### Electromiografia
 Es una prueba médica que permite evaluar la salud de los músculos y los nervios. Esta técnica consiste en registrar la actividad eléctrica que genera los músculos, tanto en reposo como durante la contracción. Para desarrollar esta tecnica es necesario tener en cuenta factores como la preparacion del sujeto, un buen protocolo de preparacion minimiza el ruido e interferencias de la señal para garantizar la calidad de datos obtenidos.
 
+![image](https://github.com/user-attachments/assets/a1f4a287-2691-41e6-bdbe-c122a7b21ca3)
+
+
+
 ### Sistema de adquisicion de datos (DAQ)
 Es un conjunto de componentes que permite medir un fenomeno electrico o fisico, incluye sensores, convertidores analogo-digitales. Mide señales fisicas del mundo real y las convierte en datos digitales para su analisis. Este sistema es fundamental para capturar la actividad electrica del musculo en tiempo real, utilizando su capacidad para digitalizar las señales analogicas que vienen de los electrodos. garantizando que los datos sean confiables.
 
@@ -86,6 +90,39 @@ Reduce al minimo las discontinuidades, es útil para minimizar la interferencia 
 - Ventana de Hamming
 Es muy parecida a la ventana de Hanning, es útil para mantener la amplitud de la señal sin distorcionarla. Sus extremos no llegan a cero a diferencia de las ventanas hanning.  
 
+##### Contraccion 1
+![image](https://github.com/user-attachments/assets/605de27f-a096-4832-8dd0-7c0346e781e4)
+![image](https://github.com/user-attachments/assets/06975a96-76ac-40f1-b3f4-f6bc82463f11)
+![image](https://github.com/user-attachments/assets/dba93a8d-8cbf-4f48-b4d9-2c8c886cb7a8)
+![image](https://github.com/user-attachments/assets/a78d4ebb-04ce-4239-babf-5f0734e1fd60)
+![image](https://github.com/user-attachments/assets/8d540040-d21b-4266-acd4-93f28493664c)
+
+##### Contraccion 2
+![image](https://github.com/user-attachments/assets/f6c953b6-8b34-49dc-a44f-622ee05b09f5)
+![image](https://github.com/user-attachments/assets/a44cf049-7857-4c21-a0f3-01bafbd0974d)
+![image](https://github.com/user-attachments/assets/706e8189-3e42-4b5b-a331-c254ab071458)
+![image](https://github.com/user-attachments/assets/9587ca2f-3f8f-4d70-b6a2-8490698d766d)
+![image](https://github.com/user-attachments/assets/3b68146e-bc34-4103-b8b0-202bf22dc34a)
+
+##### Contraccion 36
+![image](https://github.com/user-attachments/assets/07fb4bdf-8133-4866-bbe6-03563804f42d)
+![image](https://github.com/user-attachments/assets/9a21204d-1663-4e8d-8664-589ebe3c0628)
+![image](https://github.com/user-attachments/assets/645d5b98-eaf3-453b-a863-23a0b6ea84d7)
+![image](https://github.com/user-attachments/assets/ea5b4195-da2a-442b-ab03-1d6e7ae36f76)
+
+##### Contraccion 37
+![image](https://github.com/user-attachments/assets/480cf39e-13ce-43ae-92ed-e63cf7006eb7)
+![image](https://github.com/user-attachments/assets/2cd3eeb3-7057-4847-8eab-a0fd78222a0c)
+![image](https://github.com/user-attachments/assets/39ad9a1a-8205-4254-95c4-5476e5416671)
+![image](https://github.com/user-attachments/assets/cee09ea3-c549-4711-a147-1dae1f588a33)
+
+
+
+
+
+
+
+
 
 #### Transformada de Fourier.
 <P>
@@ -103,6 +140,24 @@ Aplicación. La Transformada Rápida de Fourier (FFT) procesa una señal de audi
 <P>
 Una transformacion es una operacion que convierte una señal desde un dominio a otro dominio, la transformada de fourier convierte una señal del dominio del tiempo hacie el dominio de la frecuencia. Lo cual permite analizar las señales en dominios alternativos lo cual permite identificar las caracteristicas como frecuencias.
 </p>
+
+![image](https://github.com/user-attachments/assets/e99929ac-96c2-49d6-a698-49534e1e54b7)
+![image](https://github.com/user-attachments/assets/88e9aaf2-18df-4590-8c21-bdc98815744e)
+
+![image](https://github.com/user-attachments/assets/654d9a8a-8856-4f38-9b46-acaa4eee6157)
+![image](https://github.com/user-attachments/assets/ee5c9486-1435-4d9e-8af1-fdb47ac1f634)
+
+![image](https://github.com/user-attachments/assets/ecf733fa-216f-441c-8285-62baba6ab65c)
+![image](https://github.com/user-attachments/assets/8a446bea-2efc-49e2-a544-22376ce016fd)
+
+![image](https://github.com/user-attachments/assets/9c2faa2f-9f10-4754-b91a-e56a0c52c90f)
+![image](https://github.com/user-attachments/assets/a4ee11d4-d5ab-4174-bce8-526caeb83dd9)
+
+
+
+
+
+
 
 
 
