@@ -114,7 +114,8 @@ Es muy parecida a la ventana de Hanning, es útil para mantener la amplitud de l
 ![image](https://github.com/user-attachments/assets/480cf39e-13ce-43ae-92ed-e63cf7006eb7)
 ![image](https://github.com/user-attachments/assets/2cd3eeb3-7057-4847-8eab-a0fd78222a0c)
 ![image](https://github.com/user-attachments/assets/39ad9a1a-8205-4254-95c4-5476e5416671)
-![image](https://github.com/user-attachments/assets/cee09ea3-c549-4711-a147-1dae1f588a33)
+![image](https://github.com/user-attachments/assets/742eece3-d46a-4cbf-9e39-dcebc2a2a76c)
+
 
 
 
