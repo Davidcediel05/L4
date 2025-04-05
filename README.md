@@ -2,7 +2,7 @@
 ## Señales Electromiograficas (EMG).
 ### Descripcion 
 <p>
-En este proyecto se estudia la fatiga muscular por medio del análisis espectral de señales electromiograficas(EMG). Captando la actividad eléctrica de los musculos a través del procesamiento aplicando el filtrado de señales continuas, con el fin de evaluar la variación de la frecuencia mediante se alcanza la fatiga.
+En este proyecto se estudia la fatiga muscular por medio del análisis espectral de señales electromiograficas(EMG). Captando la actividad eléctrica de los musculos a través del procesamiento, aplicando el filtrado de señales continuas, con el fin de evaluar la variación de la frecuencia mediante se alcanza la fatiga.
 </p>
 
 ### Electromiografia
