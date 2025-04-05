@@ -139,8 +139,8 @@ Tener instalado un compilador, que para este caso se utilizo spyder.
 ### Bibliografia
 
 - Heras Rodríguez, MDL (2024). La transformada rápida de Fourier: fundamentos y aplicaciones (Tesis de licenciatura).
-- Di Persia, LE (2017). Separación ciega de fuentes sonoras: revisión histórica y desarrollos recientes.
-- González, J., Forero, E., Jiménez, F. y Mariño, I. (2013). Atenuación de rizado en la densidad espectral de potencia calculada en una señal de ritmo cardíaco. Matemática , 11 (2), 22-26.
+- Mena, A. O., Yolanda, G., Cano, V., & Tizayuca-pachuca, F. (2014). Adquisición y procesamiento de una señal electromiográfica para control de una prótesis. Universidad Autónoma Del Estado de Hidalgo, XXIX, 2, 1-8.
+- Señales usando ventanas, T. A. F. (s/f). Sistemas y Señales I. Edu.ar. Recuperado el 4 de octubre de 2024, de https://www.fceia.unr.edu.ar/tesys/html/Analisis_Frecuencial_usando_ventanas.pdf
 
 
 ### Licencia
