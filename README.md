@@ -93,14 +93,12 @@ Es muy parecida a la ventana de Hanning, es útil para mantener la amplitud de l
 ##### Contraccion 1
 ![image](https://github.com/user-attachments/assets/605de27f-a096-4832-8dd0-7c0346e781e4)
 ![image](https://github.com/user-attachments/assets/06975a96-76ac-40f1-b3f4-f6bc82463f11)
-![image](https://github.com/user-attachments/assets/dba93a8d-8cbf-4f48-b4d9-2c8c886cb7a8)
 ![image](https://github.com/user-attachments/assets/a78d4ebb-04ce-4239-babf-5f0734e1fd60)
 ![image](https://github.com/user-attachments/assets/8d540040-d21b-4266-acd4-93f28493664c)
 
 ##### Contraccion 2
 ![image](https://github.com/user-attachments/assets/f6c953b6-8b34-49dc-a44f-622ee05b09f5)
 ![image](https://github.com/user-attachments/assets/a44cf049-7857-4c21-a0f3-01bafbd0974d)
-![image](https://github.com/user-attachments/assets/706e8189-3e42-4b5b-a331-c254ab071458)
 ![image](https://github.com/user-attachments/assets/9587ca2f-3f8f-4d70-b6a2-8490698d766d)
 ![image](https://github.com/user-attachments/assets/3b68146e-bc34-4103-b8b0-202bf22dc34a)
 
