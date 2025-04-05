@@ -110,29 +110,13 @@ Una transformacion es una operacion que convierte una señal desde un dominio a 
 
 Mide la distribucion de energia de la señal en funcion de la frecuencia. se espera que nos muestre la contribucion de mas frecuencias en la señal.
 
-![image](https://github.com/user-attachments/assets/f156da94-59d5-465b-880b-84b886399c30)
 
-![image](https://github.com/user-attachments/assets/11fb401d-890a-478d-999a-b1fba661ced0)
-
-Ambas señales muestran mayor densidad espectral en las bajas frecuencias (<5000 Hz), lo que sugiere que la mayoría de la energía se encuentra en este rango.
-En la señal de Cediel, se evidencia una caída alrededor de los 15 kHz, lo que nos podria indicar una atenuación en esas frecuencias.
-En la señal de Juany, se evidencia una leve disminusion despues de los 15 kHz, la energía se distribuye de manera continua.
-
-![image](https://github.com/user-attachments/assets/71294add-dafe-455e-b02e-dccba87da654)
-
-![image](https://github.com/user-attachments/assets/2e4737f3-0305-48a2-b864-f7ac2eed3fb5)
 
 observando la PSD podemos interpretar que la señal Beamforming conserva más energía en altas frecuencias lo que podemos interpretar como una menor pérdida de información.
 
     
 </p>
 
-
-### Sistema DAQ.
-
-<p>
-
-</p>
 
 
 ### Analisis temporal y frecuencial de las señales.
